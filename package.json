@@ -1,18 +1,24 @@
 {
-    "name": "shaky-js",
-    "version": "0.0.1",
-    "description": "A collection of javascript functions, to shake up your mind.",
-    "keywords": [],
-    "main": "index.js",
-    "scripts": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/webcdn/shaky-js.git"
-    },
-    "author": "Anony Boss <ab@appgo.in>",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/webcdn/shaky-js/issues"
-    },
-    "homepage": "https://github.com/webcdn/shaky-js#readme"
+  "name": "shaky-js",
+  "version": "0.0.1",
+  "description": "A collection of javascript functions, to shake up your mind.",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcdn/shaky-js.git"
+  },
+  "author": "Foo Bar <foob2200@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcdn/shaky-js/issues"
+  },
+  "homepage": "https://github.com/webcdn/shaky-js#readme",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "lodash": "^4.17.21"
+  }
 }
